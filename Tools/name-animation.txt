@@ -1,0 +1,6 @@
+animate__fadeInUp ÇÒ Çííä Èå ÈÇáÇ
+animate__fadeInDown ÇÒ ÈÇáÇ Èå Çííä
+animate__fadeInRight ÇÒ ÑÇÓÊ Èå 
+animate__fadeInLeft ÇÒ  Èå ÑÇÓÊ
+animate__fadeIn ËÇÈÊ
+data-wow-duration="1.2s"
